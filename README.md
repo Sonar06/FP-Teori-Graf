@@ -3,6 +3,7 @@
 | Nama | NRP |
 | :---: | :---: | 
 | Davin Adiputra Suryolaksana | 5025241220 |
+| Khairan Cherokee Musthofa   | 5025241215 |
 
 
 # 1 Knight's Tour Problem
