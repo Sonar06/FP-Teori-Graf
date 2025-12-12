@@ -42,7 +42,9 @@ Pilih tipe tour - open (o) / closed (c): c
     ![alt text](/assets/image-1.png)
 ### Kebutuhan
 *   Python 3.x
-*   Library `tkinter` 
+*   Library `tkinter`
+
+[Code](knights_tour.py)
 
 # 2 Largest Monotonically Increasing Subsequence
 
@@ -57,3 +59,5 @@ Input: [4, 1, 13, 7, 0, 2, 8, 11, 3]
 Panjang Subsequence Terbesar: 4
 Isi Subsequence: [4, 7, 8, 11]
 ```
+
+[Code](monotonically.py)
