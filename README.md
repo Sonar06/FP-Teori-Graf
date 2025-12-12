@@ -44,4 +44,16 @@ Pilih tipe tour - open (o) / closed (c): c
 *   Python 3.x
 *   Library `tkinter` 
 
-# 2
+# 2 Largest Monotonically Increasing Subsequence
+
+## Penggunaan Largest Monotonically Increasing Subsequence
+
+Program ini ermasalahan Largest Monotonically Increasing Subsequence (LIS) menggunakan metode Dynamic Programming. Pendekatan ini dipilih karena efisiensinya dalam memecahkan masalah optimasi dengan memecah masalah besar menjadi sub-masalah yang lebih kecil dan menyimpan hasilnya untuk menghindari perhitungan ulang.
+
+### Output
+```
+--- Pendekatan Dynamic Programming ---
+Input: [4, 1, 13, 7, 0, 2, 8, 11, 3]
+Panjang Subsequence Terbesar: 4
+Isi Subsequence: [4, 7, 8, 11]
+```
