@@ -4,7 +4,7 @@
 | :---: | :---: | 
 | Davin Adiputra Suryolaksana | 5025241220 |
 | Khairan Cherokee Musthofa   | 5025241215 |
-
+| Raihan Rasyid Ramadhan   | 5025241224 |
 
 # 1 Knight's Tour Problem
 
